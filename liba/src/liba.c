@@ -10,4 +10,7 @@ void liba_byebye() {
   fprintf(stdout, "%s\n", "hello from liba");
 }
 
+void liba_byebye2() {
+  fprintf(stdout, "%s\n", "hello from liba");
+}
 /* EOF */
