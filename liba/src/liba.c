@@ -13,4 +13,8 @@ void liba_byebye() {
 void liba_greetings() {
   fprintf(stdout, "%s\n", "greetings from liba");
 }
+
+void liba_greetings2() {
+  fprintf(stdout, "%s\n", "greetings from liba on branch");
+}
 /* EOF */
